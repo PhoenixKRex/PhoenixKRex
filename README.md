@@ -1,16 +1,23 @@
 ## Hi there 👋
 
-<!--
-**PhoenixKRex/PhoenixKRex** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm Isaiah, a Computer Science Student at the University of Missouri - Saint Louis.
 
-Here are some ideas to get you started:
+I am learning everything from TypeScript to C++. I plan to pursue web development as a career and ethical hacking for fun, so I am in the process of learning Python.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I am working on a Website side project with some friends and am trying to add a few certificates to my resume.
+
+I also enjoy learning languages. I am intermediate in Japanese and am learning Spanish.
+
+______________________________________________________________________________________________
+
+Tools & Tech
+  • C++, TypeScript
+  • Web Dev, Cybersecurity Cert, Data Analytics Cert
+  • Japanese, Spanish
+
+______________________________________________________________________________________________
+
+About Me
+  • 🏋️‍♀️ I love to go to the gym
+  • 📖 I love to read good books
+  • 🌏 I plan to study abroad
